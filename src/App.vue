@@ -111,7 +111,6 @@
       }
     },
     mounted() {
-      this.buildGraph();
       this.generateData();
       this.buildGraph();
     },
