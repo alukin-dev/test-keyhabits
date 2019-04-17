@@ -1,29 +1,16 @@
-# test-keyhabits
+# Тестовое задание для keyhabits
 
-## Project setup
+## Установка
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Запустить локальный дев сервер
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Компилировать и минифицировать для продакшена
 ```
 npm run build
 ```
-
-### Run your tests
-```
-npm run test
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
