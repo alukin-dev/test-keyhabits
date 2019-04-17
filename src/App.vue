@@ -9,7 +9,6 @@
       </q-toolbar>
     </q-header>
 
-
     <q-page-container>
       <q-page class="q-pa-md" style="overflow-x: hidden;">
 
@@ -30,10 +29,8 @@
 
           <div class="col-4">
             <div class="row q-col-gutter-md">
-
               <div class="col-12">
                 <p>Диапазон значений</p>
-
                 <q-range
                   v-model="generator.val"
                   :min="0"
@@ -72,7 +69,6 @@
             </div>
           </div>
         </div>
-
 
       </q-page>
 
