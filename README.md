@@ -1,7 +1,13 @@
 # Тестовое задание для keyhabits
 
+## Клонирование 
+```
+git clone git@github.com:alukin-dev/test-keyhabits.git
+```
+
 ## Установка
 ```
+cd test-keyhabits
 npm install
 ```
 
